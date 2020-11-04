@@ -1,7 +1,7 @@
 # Koduleht
 
 ## Eeldused
-SSH võti lisatud Githubi kontole.  SSH võtmete hulka
+SSH võti lisatud Githubi kontole. github.com/settings/profile SSH võtmete hulka
 
 ## Alla laadimiseks esimest korda arvutis
 Kirjutan terminali soovitud kaustas olles:
